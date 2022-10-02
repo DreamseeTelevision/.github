@@ -3,7 +3,7 @@
 [//]: # "Si tu lis ce message, félicitations ! Nous pensons que tu as tout pour rejoindre l'équipe :)"
 [//]: # "Code : EN7/0nA1mePasW€b€diA/w_ax9fM-B83"
 
-<img src="./dreamsee-github.png" align="right"/>
+<img src="./dreamsee_icon2022.png" align="right"/>
 
 Imagine la Télé, sur Internet, par Internet.
 <br>
